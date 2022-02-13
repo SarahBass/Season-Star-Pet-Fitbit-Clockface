@@ -1,0 +1,104 @@
+.background {
+  viewport-fill: red;
+}
+
+
+.frame {
+  viewport-fill: red;
+}
+
+
+.showLabel {
+  fill: yellow;
+  letter-spacing: 5;
+  font-size: 75;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  opacity: 0.7; 
+  x: 40%;
+  y: 20%;
+  
+}
+
+
+.label {
+  fill: azure;
+  font-size: 11;
+  font-family: System-Bold;
+  text-length: 32;
+  opacity: 1.0; 
+}
+
+.labelgreen {
+  fill: lime;
+  font-size: 11;
+  font-family: System-Bold;
+  text-length: 32;
+  opacity: 1.0; 
+}
+
+.labelred {
+  fill: red;
+  font-size: 11;
+  font-family: System-Bold;
+  text-length: 32;
+  opacity: 1.0; 
+}
+
+.labellightblue {
+  fill: aqua;
+  letter-spacing: 1;
+  font-size: 11;
+  font-family: System-Bold;
+  text-length: 32;
+  opacity: 0.7;
+  text-anchor: end;
+}
+
+.labelpurple {
+  fill: deeppink;
+  letter-spacing: 2;
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  opacity: 0.7;
+  text-anchor: middle;
+  y: 99%;
+  x: 50%;
+}
+
+.labelyellow {
+  fill: yellow;
+  font-size: 17;
+  font-family: System-Bold;
+  text-length: 32;
+  opacity: 0.7;
+  text-anchor: middle;
+  x: 50%;
+  y: 27%;
+}
+
+.foreground-fill{ 
+  fill:fb-white;
+  opacity: 0.3;
+}
+
+.staranimate {
+  width: 100%;
+  height: 100%;
+  x: -4%; 
+  y: -5%;  
+}
+
+.ampm {
+ fill: yellow;
+  letter-spacing: 5;
+  font-size: 50;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  opacity: 0.7; 
+  x: 80%;
+  y: 19%;
+}
